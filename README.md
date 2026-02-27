@@ -10,7 +10,7 @@ Bu Gizlilik Politikasında kullanılan terimler, aksi belirtilmedikçe, Jemiyet'
 # Bilgi Toplama ve Kullanımı
 Hizmetimizi daha iyi bir deneyim sunmak için kullanırken, belirli kişisel tanımlayıcı bilgileri bize sağlamanızı isteyebiliriz. İstediğimiz bilgiler, bu gizlilik politikasında açıklandığı şekilde kullanılmak üzere tarafımızca saklanır ve kullanılır. İsminizi, cinsiyetinizi, doğum tarihinizi ve konumunuzu (mobil cihazınızdaki izninizle) toplayabiliriz ve bu bilgileri size daha iyi bir hizmet sunmak için kullanabiliriz.
 
-# Kullanıcı Profil Resmi Bilgisi
+# Kullanıcı# Profil Resmi Bilgisi
 
 Size daha iyi kişiselleştirilmiş bir hizmet sunabilmek için kullanıcı profil resim bilginizi (profil resmi olarak) toplarız.
 
